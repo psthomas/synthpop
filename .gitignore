@@ -1,0 +1,15 @@
+.DS_Store
+.ipynb_checkpoints/*
+notes/*
+populate_db.py
+synthpop_national.ipynb
+data/geographies/*
+!data/geographies/2019_TIGER_GDB_Record_Layouts.pdf
+data/synthpops/*
+!data/synthpops/2010_synth_pop_ver1_quickstart.pdf
+._.DS_Store
+._environment.yml
+._populate_db.py
+data/election_results/._state_house.csv
+data/election_results/._state_senate.csv
+
