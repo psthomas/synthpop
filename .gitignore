@@ -12,4 +12,6 @@ data/synthpops/*
 ._populate_db.py
 data/election_results/._state_house.csv
 data/election_results/._state_senate.csv
+._README.md
+._dotmap.png
 
